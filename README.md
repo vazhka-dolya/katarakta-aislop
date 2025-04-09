@@ -6,7 +6,7 @@ Separate version of [katarakta](https://github.com/vazhka-dolya/katarakta) that 
 
 # How to use
 ## Opening
-Keep in mind that this version takes more time to open. When it does open, go to **Options**, then **Utilities**, and **AI Slop Creator**.
+Keep in mind that this version can take *way* more time to open. When it does open, go to **Options**, then **Utilities**, and **AI Slop Creator**.
 
 ## Training
 In the **Train model** tab, press **Select dataset folder…** and select a folder where your AI model's training data will be, the program already has one folder like that (`dataset`). Press **Open** to quickly access the dataset, put some images (the images need to be the exact same resolution, otherwise you may experience problems) inside the **images** folder, and then press **Refresh** and you should see them appear in the program. Double-click an image's **Description** column to give it a description that the AI will use for understanding the prompt. When you're done, don't forget to click **Save**. After that, give the model a file name, set the epochs (the more, the better. Around 1000–1500 should be more than enough if it's not a big dataset), and press **Train**. If you followed the instructions correctly, you should now have a model.
