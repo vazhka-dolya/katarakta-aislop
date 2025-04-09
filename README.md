@@ -3,6 +3,7 @@ Separate version of [katarakta](https://github.com/vazhka-dolya/katarakta) that 
 <p align="center">
   <img src="https://github.com/vazhka-dolya/katarakta-aislop/blob/main/GitHubImg/aislop1.png" width="320"/>
 </p>
+
 # How to use
 ## Opening
 Keep in mind that this version takes more time to open. When it does open, go to **Options**, then **Utilities**, and **AI Slop Creator**.
